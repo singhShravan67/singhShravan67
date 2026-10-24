@@ -96,16 +96,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singhShravan67&theme=tokyonight&no-frame=true&margin-w=8" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 💭 Developer Quote
 
 <div align="center">
