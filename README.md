@@ -5,16 +5,18 @@
 
 ### 💻 CSE Student | Software Developer | AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Python+%7C+Java+Developer;Exploring+AI+%26+Machine+Learning;Building+Android+Apps+%26+IoT;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Python+%26+Java+Developer;Exploring+AI+%26+Machine+Learning;Building+Android+Apps+%26+IoT;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/singhShravan67">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=singhShravan67&style=flat-square&color=00F7A5" alt="Profile Views"/>
 
 </div>
 
@@ -22,24 +24,33 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working on **AI Projects, Android Apps & IoT Solutions**
-- 🌱 Learning **Data Structures & Algorithms, Machine Learning**
-- 🤝 Open to collaborating on **Open Source & Software Development**
-- 💬 Ask me about **Python, Java, Android, Firebase & IoT**
-- 🎯 Goal: Become a skilled **Software Developer & AI Engineer**
-- ⚡ Fun fact: I love turning ideas into real-world projects!
+- 🎓 Computer Science Engineering Student
+- 🔭 Working on AI projects, Android apps and IoT solutions
+- 🌱 Learning Data Structures, Algorithms and Machine Learning
+- 🤝 Interested in Open Source and Software Development
+- 💬 Ask me about Python, Java, Firebase and Android
+- 🎯 Aspiring Software Developer and AI Engineer
+- ⚡ I enjoy building real-world projects and learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,flask,fastapi,mysql,sqlite,firebase,git,github,android,vscode" alt="Tech Stack"/>
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,php" alt="Programming Languages"/>
 </p>
 
-### 📊 Data Science & AI/ML
+### 🌐 Development & Database
 
-<p align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,firebase,git,github,vscode,androidstudio" alt="Development Tools"/>
+</p>
+
+### 🤖 Data Science & AI/ML
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
@@ -50,15 +61,36 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🔬 Machine Learning & Computer Vision
+
+- [Material Defect Detection](https://github.com/singhShravan67/python_material_defect_detection_ben) — Explore my material defect detection project.
+- [People Counting](https://github.com/singhShravan67/python_People_Counting) — Computer vision project for people counting.
+- [Spam Call Detection](https://github.com/singhShravan67/spam-call-detection-ml) — Machine learning project for spam call detection.
+
+### 📱 Android & Software Development
+
+- [Reminder App](https://github.com/singhShravan67/remainder) — Explore my Java reminder application.
+- [College Project](https://github.com/singhShravan67/college_project) — Explore my college development project.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhShravan67&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhShravan67&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=singhShravan67&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -68,49 +100,36 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=singhShravan67&theme=tokyonight&no-frame=true&margin-w=8" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 💬 Developer Quote
+## 💭 Developer Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-- 🤖 **AI/ML Projects** — Intelligent solutions using Python
-- 📱 **Android Apps** — Mobile apps using Java and Firebase
-- 🌱 **IoT Projects** — ESP32, sensors and smart automation
-
-> Add links to your actual repositories here to showcase your best work.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+## 🤝 Let's Connect
 
 <div align="center">
+
+<a href="https://github.com/singhShravan67">
+  <img src="https://img.shields.io/badge/GitHub-s inghShravan67-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7A5" alt="Profile Views"/>
-
-**💚 Keep Learning. Keep Building. Keep Growing.**
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
